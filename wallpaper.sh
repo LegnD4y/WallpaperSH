@@ -1,6 +1,5 @@
 #!/bin/bash
 kill $(pidof mplayer)
-dir="/home/gustavo/Imagens/Wallpapers/"
 while :
 do
   for i in $(ls /home/gustavo/Imagens/Wallpapers/*.mp4 | shuf);

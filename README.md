@@ -1,5 +1,5 @@
 # WallpaperSH
-Shell Script code for live Wallpaper on i3wm
+Shell Script code for live Wallpaper .mp4 on i3wm
 
 First to use this script change the path of the videos in wallpaper.sh
 

@@ -2,7 +2,7 @@
 kill $(pidof mplayer)
 while :
 do
-  for i in $(ls /home/gustavo/Imagens/Wallpapers/*.mp4 | shuf);
+  for i in $(ls $HOME/Imagens/Wallpapers/*.mp4 | shuf);
   do
     mplayer -loop 0 -rootwin -ao null -noconsolecontrols -fstype layer $i &
     sleep 30

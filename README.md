@@ -10,7 +10,7 @@ To execute:
 $ ./wallpaper.sh
 
 To automatic open with i3wm, use:
-$ echo "exec --no-startup-id /path/to/WallpaperSH/wallpaper.sh" >> /home/user/.config/i3/config
+$ echo "exec --no-startup-id /path/to/WallpaperSH/wallpaper.sh" >> /$HOME/.config/i3/config
 
 Notes:
 - This script only works in a i3wm, with a single monitor.

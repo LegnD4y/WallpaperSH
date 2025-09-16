@@ -1,0 +1,50 @@
+arrIN[0]=1920
+arrIN[1]=1080
+YInit=1080
+MOVY=0
+MOVX=1920
+I=1
+ (+) Video --vid=1 (*) (h264 3840x2160 60.000fps)
+VO: [gpu] 3840x2160 yuv420p
+antes do kill
+depois do kill
+
+Exiting... (Quit)
+arrIN[0]=1920
+arrIN[1]=1080
+YInit=1080
+MOVY=0
+MOVX=1920
+I=1
+ (+) Video --vid=1 (*) (h264 3840x2160 60.000fps)
+[vo/gpu/x11] X11 error: BadDrawable (invalid Pixmap or Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 3200001, serial: 14
+[vo/gpu/x11] Error code: 9, request code: e, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 3200001, serial: 15
+[vo/gpu/x11] Error code: 3, request code: 28, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 3200001, serial: 1e
+[vo/gpu/x11] Error code: 3, request code: 2, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 3200001, serial: 20
+[vo/gpu/x11] Error code: 3, request code: 1, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 23
+[vo/gpu/x11] Error code: 3, request code: 12, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 26
+[vo/gpu/x11] Error code: 3, request code: 94, minor code: 3
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 28
+[vo/gpu/x11] Error code: 3, request code: 12, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 29
+[vo/gpu/x11] Error code: 3, request code: 12, minor code: 0
+[vo/gpu/opengl] Could not create EGL surface!
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 2b
+[vo/gpu/x11] Error code: 3, request code: 12, minor code: 0
+[vo/gpu/x11] X11 error: BadWindow (invalid Window parameter)
+[vo/gpu/x11] Type: 0, display: 0x7f2f54003f80, resourceid: 2c00002, serial: 2c
+[vo/gpu/x11] Error code: 3, request code: 12, minor code: 0
